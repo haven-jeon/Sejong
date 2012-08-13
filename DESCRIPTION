@@ -1,0 +1,18 @@
+Package: Sejong
+Maintainer: Heewon Jeon <madjakarta@gmail.com>
+License: GPL-3
+Title: Sejong
+Author: Heewon Jeon
+Version: 0.01
+Description: KoNLP static dictionaries and Sejong project resources for corpus
+    linguistics.
+URL: https://github.com/haven-jeon/Sejong
+Repository: CRAN
+Date/Publication: 2012-08-13 16:00:00
+Packaged: 2012-08-13 20:53:27 UTC; tobias
+Date: 2012-08-13
+Encoding : UTF-8
+Depends:
+    R (>= 2.14.0)
+Collate:
+    'foo.R'
