@@ -1,7 +1,7 @@
 Package: Sejong
 Maintainer: Heewon Jeon <madjakarta@gmail.com>
 License: GPL-3
-Title: Sejong
+Title: Sejong corpus and KoNLP dictionaries
 Author: Heewon Jeon
 Version: 0.01
 Description: KoNLP static dictionaries and Sejong project resources for corpus
