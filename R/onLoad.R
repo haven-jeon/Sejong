@@ -14,14 +14,12 @@
 
 
 
-.SejongEnv <- new.env()
+#.SejongEnv <- new.env()
 
 
-.onLoad <- function(libname, pkgname) {
+
+.onAttach <- function(libname, pkgname){
   packageStartupMessage("Successfully Loaded Sejong Package.")
 }
-
-
-
 
 
