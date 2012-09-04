@@ -3,7 +3,7 @@ Maintainer: Heewon Jeon <madjakarta@gmail.com>
 License: GPL-3
 Title: KoNLP static dictionaries and Sejong project resources.
 Author: Heewon Jeon
-Version: 0.01
+Version: 0.02
 Description: Sejong(http://www.sejong.or.kr/) corpus and
     Hannanum(http://semanticweb.kaist.ac.kr/home/index.php/HanNanum)
     dictionaries for KoNLP
